@@ -1,13 +1,13 @@
 # ES Sample
-#### This is a simple project using [Elasticsearch](https://www.elastic.co/pt/what-is/elasticsearch). 
+#### This is a simple project using [Elasticsearch](https://www.elastic.co/pt/what-is/elasticsearch)
 
 ## Useful links
-[Tutorial](https://tsh.io/blog/elasticsearch-tutorial/)
-[Getting Started](https://medium.com/tech-explained/getting-hands-on-with-elasticsearch-9969a2894f8a)
-[Mappings](https://logz.io/blog/elasticsearch-mapping/)
-[REST API](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html)
-[Java API](https://www.baeldung.com/elasticsearch-java)
-[Spring Data Elasticsearch](https://www.baeldung.com/spring-data-elasticsearch-tutorial)
+- [Tutorial](https://tsh.io/blog/elasticsearch-tutorial/)
+- [Getting Started](https://medium.com/tech-explained/getting-hands-on-with-elasticsearch-9969a2894f8a)
+- [Mappings](https://logz.io/blog/elasticsearch-mapping/)
+- [REST API](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html)
+- [Java API](https://www.baeldung.com/elasticsearch-java)
+- [Spring Data Elasticsearch](https://www.baeldung.com/spring-data-elasticsearch-tutorial)
 
 ## Index
 
