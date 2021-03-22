@@ -1,0 +1,33 @@
+[
+    {
+        "author": "Beverly Sills",
+        "content": "You may be disappointed if you fail, but you are doomed if you don’t try.",
+        "year": 1929
+    },
+    {
+        "author": "Albert Einstein",
+        "content": "Strive not to be a success, but rather to be of value.",
+        "year": 1881
+    },
+    {
+        "author": "Audrey Hepburn",
+        "content": "Nothing is impossible, the word itself says, “I’m possible!",
+        "year": 1929
+    },
+    {
+        "author": "Florence Nightingale",
+        "content": "I attribute my success to this: I never gave or took any excuse.",
+        "year": 1820
+    },
+    {
+        "author": "Farrah Gray",
+        "content": "Build your own dreams, or someone else will hire you to build theirs.",
+        "year": 1984,
+        "country": "USA"
+    },
+    {
+        "author": "Abraham Lincoln",
+        "content": "It’s not the years in your life that count. It’s the life in your year.",
+        "year": 1809
+    }
+]
