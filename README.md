@@ -13,7 +13,7 @@
 
 It is a collection of data with similar characteristic.
 
-##### Create a index
+##### Create an index
 ```
 PUT /quotes
 ```
@@ -48,7 +48,7 @@ PUT /quotes
 }
 ```
 
-##### Update a index
+##### Update an index
 ```
 PUT /quotes/_settings
 {
@@ -64,7 +64,7 @@ PUT /quotes/_settings
 GET _cat/indices?v
 ```
 
-##### Delete a index
+##### Delete an index
 ```
 DELETE /quotes
 ```
