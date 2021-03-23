@@ -3,17 +3,19 @@ version: "3.8"
 services:
   elasticsearch:
     image: elasticsearch:7.11.2
+    container_name: es_sample_elasticsearch
     ports:
       - "9200:9200"
       - "9300:9300"
     environment:
       discovery.type: single-node
       xpack.license.self_generated.type: trial
+      ES_JAVA_OPTS: -Xms1024m -Xmx2048m
     networks:
       - elk
-
   kibana:
     image: kibana:7.11.2
+    container_name: es_sample_kibana
     depends_on:
       - elasticsearch
     ports:

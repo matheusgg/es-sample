@@ -5,6 +5,7 @@
 - [Tutorial](https://tsh.io/blog/elasticsearch-tutorial/)
 - [Getting Started](https://medium.com/tech-explained/getting-hands-on-with-elasticsearch-9969a2894f8a)
 - [Mappings](https://logz.io/blog/elasticsearch-mapping/)
+- [Query DSL](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html)
 - [REST API](https://www.elastic.co/guide/en/elasticsearch/reference/current/rest-apis.html)
 - [Java API](https://www.baeldung.com/elasticsearch-java)
 - [Spring Data Elasticsearch](https://www.baeldung.com/spring-data-elasticsearch-tutorial)
